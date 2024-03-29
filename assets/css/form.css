@@ -1,0 +1,32 @@
+body {
+    justify-content: center;
+    align-items: center;
+}
+
+form {
+    border: 1px black solid;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+div {
+    margin-top: 20px;
+}
+
+label {
+    padding-right: 10px;
+}
+
+#username {
+    width: 500px;
+}
+
+#title {
+    width: 500px;
+}
+
+#content {
+    width: 500px;
+    height: 100px;
+}

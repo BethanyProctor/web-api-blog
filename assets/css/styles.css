@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    margin: 20px;
+}
+
+h1 {
+    color: #856774;
+    /* text-align: center; */
+}
+
+button {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color: black;
+    background-color: #856774;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+button:hover {
+    opacity: 80%;
+    cursor: pointer;
+}
