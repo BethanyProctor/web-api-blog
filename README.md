@@ -10,7 +10,7 @@ N/A
 
 ## Usage
 
-Visit the webpage for My First Blog here:
+Visit the webpage for My First Blog here: https://bethanyproctor.github.io/web-api-blog/
 Open the console to see the entered data saved to local storage. Click the "Switch the Theme" button to toggle between light and dark mode.
 
 ![image](https://github.com/BethanyProctor/web-api-blog/assets/160694396/b760e43a-e672-40fc-a474-bc926fa20d1e)
